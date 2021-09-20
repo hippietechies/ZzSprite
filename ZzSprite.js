@@ -1,5 +1,4 @@
 // ZzSprite - Tiny Sprite Generator - Frank Force 2020 - MIT License
-
 'use strict';
 
 // ==ClosureCompiler==
